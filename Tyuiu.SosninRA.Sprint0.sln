@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{36C04B2E-A879-4038-9D73-99128C499B0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint0.Task1.V0", "Tyuiu.SosninRA.Sprint0.Task1.V0\Tyuiu.SosninRA.Sprint0.Task1.V0.csproj", "{E576FAB5-B88A-4B10-8F63-45E712CF8D57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint0.Task0.V0", "Tyuiu.SosninRA.Sprint0.Task0.V0\Tyuiu.SosninRA.Sprint0.Task0.V0.csproj", "{E576FAB5-B88A-4B10-8F63-45E712CF8D57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

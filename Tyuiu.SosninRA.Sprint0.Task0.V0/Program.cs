@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.SosninRA.Sprint0.Task1.V0
+﻿namespace Tyuiu.SosninRA.Sprint0.Task0.V0
 {
     internal class Program
     {
