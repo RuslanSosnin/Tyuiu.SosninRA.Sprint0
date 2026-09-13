@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{36C04B2E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint0.Task0.V0", "Tyuiu.SosninRA.Sprint0.Task0.V0\Tyuiu.SosninRA.Sprint0.Task0.V0.csproj", "{E576FAB5-B88A-4B10-8F63-45E712CF8D57}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{2BD33C16-987F-4084-8D41-E6C2C647CBF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint0.Task1.V0", "Tyuiu.SosninRA.Sprint0.Task1.V0\Tyuiu.SosninRA.Sprint0.Task1.V0.csproj", "{441B71BD-2E22-4CBE-8D2C-FC2CE10C1292}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +21,16 @@ Global
 		{E576FAB5-B88A-4B10-8F63-45E712CF8D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E576FAB5-B88A-4B10-8F63-45E712CF8D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E576FAB5-B88A-4B10-8F63-45E712CF8D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441B71BD-2E22-4CBE-8D2C-FC2CE10C1292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441B71BD-2E22-4CBE-8D2C-FC2CE10C1292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441B71BD-2E22-4CBE-8D2C-FC2CE10C1292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441B71BD-2E22-4CBE-8D2C-FC2CE10C1292}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E576FAB5-B88A-4B10-8F63-45E712CF8D57} = {36C04B2E-A879-4038-9D73-99128C499B0F}
+		{441B71BD-2E22-4CBE-8D2C-FC2CE10C1292} = {2BD33C16-987F-4084-8D41-E6C2C647CBF7}
 	EndGlobalSection
 EndGlobal
